@@ -1,4 +1,4 @@
-N = 4
+N = 6
 board = [-1] * N
 
 def is_safe(row, col):
